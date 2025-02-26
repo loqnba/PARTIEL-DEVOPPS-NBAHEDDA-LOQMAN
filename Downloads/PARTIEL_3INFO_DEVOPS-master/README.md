@@ -23,6 +23,9 @@ Ce dépôt contient un projet Python simple avec :
 4. Creez un github workflow pour éxécuter des tests et  un github workflow pour éxécuter le linter 
 
 5. Ajouter des badges de réussite d'execution de vos tests et de votre linter dans le readme (voir ***GITHUB_BADGES_GUIDE.md***)
+![Tests](https://github.com/loqnba/PARTIEL-DEVOPPS-NBAHEDDA-LOQMAN/actions/workflows/tests.yml/badge.svg)
+![Linter](https://github.com/loqnba/PARTIEL-DEVOPPS-NBAHEDDA-LOQMAN/actions/workflows/linter.yml/badge.svg)
+
 
 6. Améliorer le code pour réussir le linter
 
